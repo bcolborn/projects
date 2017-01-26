@@ -1,0 +1,237 @@
+{
+    "title": "Eclipse%20content%20aggregated%20by%20a%20map",
+    "documentType": "manual",
+    "documentDate": "2017-01-20T10%3A17%3A53-08%3A00",
+    "documentPermission": "public",
+    "id": "hierarchy",
+    "uniqueKey": "hierarchy",
+    "ancestors": [],
+    "documents": [
+        {
+            "title": "Garage%20Tasks",
+            "id": "tas-garagetaskoverview.html",
+            "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html",
+            "ancestors": ["hierarchy"],
+            "summary": "When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21",
+            "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EWhen%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cul%20class%3D%22ullinks%22%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-changingtheoil.html%22%20shape%3D%22rect%22%3EChanging%20the%20oil%20in%20your%20car%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AOnce%20every%206000%20kilometers%20or%20three%20months%2C%20change%20the%20oil%20in%20your%20car.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-organizing.html%22%20shape%3D%22rect%22%3EOrganizing%20the%20workbench%20and%20tools%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AKeep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-shovellingsnow.html%22%20shape%3D%22rect%22%3EShovelling%20snow%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AKeep%20your%20driveway%20and%20sidewalks%20clear%20of%20snow%20and%20ice%20by%20shovelling%20after%20%20any%20snowfall.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-spraypainting.html%22%20shape%3D%22rect%22%3ESpray%20painting%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AWhen%20paint%20is%20applied%20using%20a%20spray%20nozzle%2C%20it%20is%20referred%20to%20as%20spray%20painting.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-takinggarbage.html%22%20shape%3D%22rect%22%3ETaking%20out%20the%20garbage%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0ARegular%20garbage%20removal%20is%20necessary%20for%20the%20proper%20functioning%20of%20a%20home.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22tas-washingthecar.html%22%20shape%3D%22rect%22%3EWashing%20the%20car%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AKeep%20your%20car%20looking%20great%20by%20washing%20it%20regularly.%3C%2Fli%3E%3C%2Ful%3E%3C%2Fdiv%3E",
+            "href": "topics%2Ftas-garagetaskoverview.html",
+            "documents": [
+                {
+                    "title": "Changing%20the%20oil%20in%20your%20car",
+                    "id": "tas-changingtheoil.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-changingtheoil.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "Once%20every%206000%20kilometers%20or%20three%20months%2C%20change%20the%20oil%20in%20your%20car.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EOnce%20every%206000%20kilometers%20or%20three%20months%2C%20change%20the%20oil%20in%0Ayour%20car.%3C%2Fp%3E%3Cdiv%20class%3D%22section%20context%22%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Cp%20class%3D%22p%22%3EChanging%20the%20oil%20regularly%20%0Awill%20help%20keep%20the%20engine%20in%20good%20condition.%20%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Cp%20class%3D%22li%20stepsection%22%3ETo%20change%20the%20oil%3A%3C%2Fp%3E%3Col%20class%3D%22ol%20steps%22%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3ERemove%20the%20old%20oil%20filter.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EDrain%20the%20old%20oil.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EInstall%20a%20new%20oil%20filter%20and%20gasket.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EAdd%20new%20oil%20to%20the%20engine.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3ECheck%20the%20air%20filter%20and%20replace%20or%20clean%20it.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3ETop%20up%20the%20windshield%20washer%20fluid.%3C%2Fspan%3E%3C%2Fli%3E%3C%2Fol%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-oil.html%22%20title%3D%22Motor%20oil%20keeps%20your%20car%27s%20engine%20running%20smoothly.%22%20shape%3D%22rect%22%3EOil%3C%2Fa%3E%3C%2Fdiv%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-wwfluid.html%22%20title%3D%22Windshield%20washer%20fluid%20is%20required%20to%20keep%20your%20windshield%20wipers%20functioning%20properly.%22%20shape%3D%22rect%22%3EWindshield%20washer%20fluid%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-changingtheoil.html"
+                },
+                {
+                    "title": "Organizing%20the%20workbench%20and%20tools",
+                    "id": "tas-organizing.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-organizing.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "Keep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EKeep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%0Agarage.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-organizing.html"
+                },
+                {
+                    "title": "Shovelling%20snow",
+                    "id": "tas-shovellingsnow.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-shovellingsnow.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "Keep%20your%20driveway%20and%20sidewalks%20clear%20of%20snow%20and%20ice%20by%20shovelling%20after%20any%20snowfall.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EKeep%20your%20driveway%20and%20sidewalks%20clear%20of%20snow%20and%20ice%20by%20shovelling%20after%20%0Aany%20snowfall.%3C%2Fp%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Col%20class%3D%22ol%20steps%22%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EGet%20the%20shovel%20out%20of%20the%20garage%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EShovel%20the%20driveway%2C%20starting%20at%20the%20garage%20door%20and%20working%20out%20to%20the%20%0Astreet.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EShovel%20the%20sidewalk%20in%20front%20of%20your%20house.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EShovel%20the%20walk%20to%20your%20front%20door.%3C%2Fspan%3E%3C%2Fli%3E%3C%2Fol%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-snowshovel.html%22%20title%3D%22Use%20the%20snow%20shovel%20to%20clear%20the%20drive%20way%20and%20side%20walk%20of%20snow%20in%20the%20winter.%22%20shape%3D%22rect%22%3ESnow%20shovel%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-shovellingsnow.html"
+                },
+                {
+                    "title": "Spray%20painting",
+                    "id": "tas-spraypainting.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-spraypainting.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "When%20paint%20is%20applied%20using%20a%20spray%20nozzle%2C%20it%20is%20referred%20to%20as%20spray%20painting.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EWhen%20paint%20is%20applied%20using%20a%20spray%20nozzle%2C%20it%20is%20referred%20to%20as%20spray%20painting.%3C%2Fp%3E%3Cdiv%20class%3D%22section%20context%22%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Cp%20class%3D%22p%22%3EThe%20garage%20is%20a%20good%20place%20to%20spray%20paint.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Col%20class%3D%22ol%20steps%22%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EMove%20the%20car%20out%20of%20the%20garage%20to%20avoid%20getting%20paint%20on%20it.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EPlace%20newspaper%2C%20cardboard%2C%20or%20a%20drop-cloth%20on%20the%20garage%20floor.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EPlace%20the%20object%20to%20be%20painted%20on%20the%20covered%20area.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EFollow%20the%20directions%20on%20the%20paint%20can%20to%20paint%20the%20object.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3ELet%20the%20paint%20dry%20thoroughly%20before%20you%20move%20the%20object.%3C%2Fspan%3E%3C%2Fli%3E%3C%2Fol%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-paint.html%22%20title%3D%22Paint%20is%20useful%20for%20refreshing%20the%20look%20of%20rooms%20and%20furniture.%22%20shape%3D%22rect%22%3EPaint%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-spraypainting.html"
+                },
+                {
+                    "title": "Taking%20out%20the%20garbage",
+                    "id": "tas-takinggarbage.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-takinggarbage.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "Regular%20garbage%20removal%20is%20necessary%20for%20the%20proper%20functioning%20of%20a%20home.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3ERegular%20garbage%20removal%20is%20necessary%20for%20the%20proper%20functioning%20of%20a%20home.%3C%2Fp%3E%3Cdiv%20class%3D%22section%20context%22%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Cp%20class%3D%22p%22%3EYour%20municipality%20collects%20garbage%20from%20homes%20once%20a%20week%2C%20usually%20early%20in%20%0Athe%20morning.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Col%20class%3D%22ol%20steps%22%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EFind%20out%20from%20the%20town%20what%20day%20of%20the%20week%20garbage%20is%20collected%20in%20your%20neighborhood.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EThe%20night%20before%20collection%2C%20place%20the%20garbage%20cans%20on%20the%20curb.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EAfter%20the%20garbage%20has%20been%20collected%2C%20move%20the%20cans%20back%20into%20your%20garage.%3C%2Fspan%3E%3C%2Fli%3E%3C%2Fol%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-takinggarbage.html"
+                },
+                {
+                    "title": "Washing%20the%20car",
+                    "id": "tas-washingthecar.html",
+                    "uniqueKey": "hierarchy%2Ftas-garagetaskoverview.html%2Ftas-washingthecar.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/tas-garagetaskoverview.html"
+                    ],
+                    "summary": "Keep%20your%20car%20looking%20great%20by%20washing%20it%20regularly.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20taskbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EKeep%20your%20car%20looking%20great%20by%20washing%20it%20regularly.%3C%2Fp%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3E%3C%2Fh2%3E%3C%2Fdiv%3E%3Col%20class%3D%22ol%20steps%22%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EMove%20the%20car%20onto%20the%20driveway.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EAttach%20the%20water%20hose%20to%20a%20spout%20and%20pull%20the%20free%20end%20over%20to%0Athe%20car.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EFill%20a%20bucket%20with%20soapy%20water.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EUse%20a%20sponge%20to%20apply%20the%20soapy%20water%20to%20the%20car%20and%0Ascrub%20off%20the%20dirt.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3ERinse%20the%20car%20by%20spraying%20clean%20water%0Afrom%20the%20hose.%3C%2Fspan%3E%3C%2Fli%3E%3Cli%20class%3D%22li%20step%22%3E%3Cspan%20class%3D%22ph%20cmd%22%3EDry%20the%20car%20using%20a%20dampened%20chamois.%3C%2Fspan%3E%3C%2Fli%3E%3C%2Fol%3E%3Cdiv%20class%3D%22section%20result%22%3E%3Cdiv%20class%3D%22tasklabel%22%3E%3Ch2%20class%3D%22sectiontitle%20tasklabel%22%3EResults%3C%2Fh2%3E%3C%2Fdiv%3E%3Cp%20class%3D%22p%22%3E%3Cimg%20class%3D%22image%22%20src%3D%22..%2Fimages%2Fcarwash.jpg%22%20height%3D%22171%22%20width%3D%22249%22%20alt%3D%22washing%20the%20car%22%3E%3C%2Fimg%3E%3C%2Fp%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-garagetaskoverview.html%22%20title%3D%22When%20you%20go%20into%20the%20garage%2C%20be%20prepared%20to%20get%20your%20hands%20dirty%21%22%20shape%3D%22rect%22%3EGarage%20Tasks%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-waterhose.html%22%20title%3D%22A%20water%20hose%20is%20useful%20for%20cleaning%20and%20gardening%20projects%20around%20the%20yard.%22%20shape%3D%22rect%22%3EWater%20hose%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Ftas-washingthecar.html"
+                }
+            ]
+        },
+        {
+            "title": "Garage%20Concepts",
+            "id": "con-garageconceptsoverview.html",
+            "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html",
+            "ancestors": ["hierarchy"],
+            "summary": "A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.",
+            "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EA%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cul%20class%3D%22ullinks%22%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-lawnmower.html%22%20shape%3D%22rect%22%3ELawnmower%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AThe%20lawnmower%20is%20a%20machine%20used%20to%20cut%20grass%20in%20the%20yard.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-oil.html%22%20shape%3D%22rect%22%3EOil%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AMotor%20oil%20keeps%20your%20car%27s%20engine%20running%20smoothly.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-paint.html%22%20shape%3D%22rect%22%3EPaint%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0APaint%20is%20useful%20for%20refreshing%20the%20look%20of%20rooms%20and%20furniture.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-shelving.html%22%20shape%3D%22rect%22%3EShelving%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AWooden%20or%20metal%20shelving%20is%20useful%20for%20storing%20things%20in%20the%20garage.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-snowshovel.html%22%20shape%3D%22rect%22%3ESnow%20shovel%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AUse%20the%20snow%20shovel%20to%20clear%20the%20drive%20way%20and%20side%20walk%20of%20snow%20in%20the%20%20winter.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-toolbox.html%22%20shape%3D%22rect%22%3ETool%20box%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AA%20tool%20box%20contains%20many%20compartments%20for%20organizing%20tools%20and%20hardware.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-tools.html%22%20shape%3D%22rect%22%3ETools%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AInvest%20in%20a%20good%20set%20of%20tools%20for%20doing%20all%20kinds%20of%20tasks%20around%20the%20house.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-waterhose.html%22%20shape%3D%22rect%22%3EWater%20hose%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AA%20water%20hose%20is%20useful%20for%20cleaning%20and%20gardening%20projects%20around%20the%20yard.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-wheelbarrow.html%22%20shape%3D%22rect%22%3EWheel%20barrow%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AA%20good%20wheel%20barrow%20will%20save%20your%20back%20from%20extensive%20trauma%20when%20you%20%20garden.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-workbench.html%22%20shape%3D%22rect%22%3EWorkbench%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AUse%20the%20workbench%20for%20storing%20tools%20and%20hardware%2C%20and%20for%20doing%20small%20%20projects.%3C%2Fli%3E%3Cli%20class%3D%22link%20ulchildlink%22%3E%3Cstrong%3E%3Ca%20href%3D%22con-wwfluid.html%22%20shape%3D%22rect%22%3EWindshield%20washer%20fluid%3C%2Fa%3E%3C%2Fstrong%3E%0A%20%20%20%20%20%26nbsp%3B%26nbsp%3B%0AWindshield%20washer%20fluid%20is%20required%20to%20keep%20your%20windshield%20wipers%20functioning%20properly.%3C%2Fli%3E%3C%2Ful%3E%3C%2Fdiv%3E",
+            "href": "topics%2Fcon-garageconceptsoverview.html",
+            "documents": [
+                {
+                    "title": "Lawnmower",
+                    "id": "con-lawnmower.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-lawnmower.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "The%20lawnmower%20is%20a%20machine%20used%20to%20cut%20grass%20in%20the%20yard.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EThe%20lawnmower%20is%20a%20machine%20used%20to%20cut%20grass%20in%20the%20yard.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3ELawnmowers%20can%20be%20%0Aelectric%2C%20gas-powered%2C%20or%20manual.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-lawnmower.html"
+                },
+                {
+                    "title": "Oil",
+                    "id": "con-oil.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-oil.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Motor%20oil%20keeps%20your%20car%27s%20engine%20running%20smoothly.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EMotor%20oil%20keeps%20your%20car%27s%20engine%20running%20smoothly.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EOil%20should%20be%20changed%20%0Aevery%206000%20kilometers.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-changingtheoil.html%22%20title%3D%22Once%20every%206000%20kilometers%20or%20three%20months%2C%20change%20the%20oil%20in%20your%20car.%22%20shape%3D%22rect%22%3EChanging%20the%20oil%20in%20your%20car%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-oil.html"
+                },
+                {
+                    "title": "Paint",
+                    "id": "con-paint.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-paint.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Paint%20is%20useful%20for%20refreshing%20the%20look%20of%20rooms%20and%20furniture.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EPaint%20is%20useful%20for%20refreshing%20the%20look%20of%20rooms%20and%20furniture.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EStore%20unused%20%0Apaint%20in%20the%20garage.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-spraypainting.html%22%20title%3D%22When%20paint%20is%20applied%20using%20a%20spray%20nozzle%2C%20it%20is%20referred%20to%20as%20spray%20painting.%22%20shape%3D%22rect%22%3ESpray%20painting%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-paint.html"
+                },
+                {
+                    "title": "Shelving",
+                    "id": "con-shelving.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-shelving.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Wooden%20or%20metal%20shelving%20is%20useful%20for%20storing%20things%20in%20the%20garage.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EWooden%20or%20metal%20shelving%20is%20useful%20for%20storing%20things%20in%20the%20garage.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EShelving%20also%20keeps%20%0Athings%20neat%20and%20organized.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-organizing.html%22%20title%3D%22Keep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.%22%20shape%3D%22rect%22%3EOrganizing%20the%20workbench%20and%20tools%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-shelving.html"
+                },
+                {
+                    "title": "Snow%20shovel",
+                    "id": "con-snowshovel.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-snowshovel.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Use%20the%20snow%20shovel%20to%20clear%20the%20drive%20way%20and%20side%20walk%20of%20snow%20in%20the%20winter.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EUse%20the%20snow%20shovel%20to%20clear%20the%20drive%20way%20and%20side%20walk%20of%20snow%20in%20the%20%0Awinter.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EA%20good%20snow%20shovel%20has%20a%20straight%2C%20wide%20scoop%20and%20a%20strong%20handle.%20To%20%0Ahelp%20snow%20come%20off%20the%20scoop%2C%20spray%20the%20scoop%20with%20cooking%20spray.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-shovellingsnow.html%22%20title%3D%22Keep%20your%20driveway%20and%20sidewalks%20clear%20of%20snow%20and%20ice%20by%20shovelling%20after%20any%20snowfall.%22%20shape%3D%22rect%22%3EShovelling%20snow%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-snowshovel.html"
+                },
+                {
+                    "title": "Tool%20box",
+                    "id": "con-toolbox.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-toolbox.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "A%20tool%20box%20contains%20many%20compartments%20for%20organizing%20tools%20and%20hardware.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EA%20tool%20box%20contains%20many%20compartments%20for%20organizing%20tools%20and%20hardware.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EKeep%20%0Athe%20tool%20box%20handy%20for%20all%20sorts%20of%20jobs%20around%20the%20house.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-tools.html%22%20title%3D%22Invest%20in%20a%20good%20set%20of%20tools%20for%20doing%20all%20kinds%20of%20tasks%20around%20the%20house.%22%20shape%3D%22rect%22%3ETools%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-organizing.html%22%20title%3D%22Keep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.%22%20shape%3D%22rect%22%3EOrganizing%20the%20workbench%20and%20tools%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-toolbox.html"
+                },
+                {
+                    "title": "Tools",
+                    "id": "con-tools.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-tools.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Invest%20in%20a%20good%20set%20of%20tools%20for%20doing%20all%20kinds%20of%20tasks%20around%20the%20house.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EInvest%20in%20a%20good%20set%20of%20tools%20for%20doing%20all%20kinds%20of%20tasks%20around%20the%20house.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EUseful%20tools%20include%20the%20following%20items%3A%3C%2Fp%3E%3Cul%20class%3D%22ul%22%3E%3Cli%20class%3D%22li%22%3EHammer%3C%2Fli%3E%3Cli%20class%3D%22li%22%3EScrew%20driver%20set%3C%2Fli%3E%3Cli%20class%3D%22li%22%3EWrench%20set%3C%2Fli%3E%3Cli%20class%3D%22li%22%3ENails%20and%20screws%3C%2Fli%3E%3Cli%20class%3D%22li%22%3ELevel%3C%2Fli%3E%3Cli%20class%3D%22li%22%3ESaws%3C%2Fli%3E%3Cli%20class%3D%22li%22%3EDrill%3C%2Fli%3E%3Cli%20class%3D%22li%22%3EAir%20pressure%20guage%3C%2Fli%3E%3Cli%20class%3D%22li%22%3ESpade%3C%2Fli%3E%3Cli%20class%3D%22li%22%3ERake%3C%2Fli%3E%3C%2Ful%3E%3Cp%20class%3D%22p%22%3EKeep%20your%20tools%20organized%20in%20a%20tool%20box.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20relconcepts%22%3E%3Cstrong%3ERelated%20concepts%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22con-toolbox.html%22%20title%3D%22A%20tool%20box%20contains%20many%20compartments%20for%20organizing%20tools%20and%20hardware.%22%20shape%3D%22rect%22%3ETool%20box%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-organizing.html%22%20title%3D%22Keep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.%22%20shape%3D%22rect%22%3EOrganizing%20the%20workbench%20and%20tools%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-tools.html"
+                },
+                {
+                    "title": "Water%20hose",
+                    "id": "con-waterhose.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-waterhose.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "A%20water%20hose%20is%20useful%20for%20cleaning%20and%20gardening%20projects%20around%20the%20yard.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EA%20water%20hose%20is%20useful%20for%20cleaning%20and%20gardening%20projects%20around%20the%20yard.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EKeep%20the%20hose%20coiled%20on%20a%20large%20hook%20near%20a%20water%20spout.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-washingthecar.html%22%20title%3D%22Keep%20your%20car%20looking%20great%20by%20washing%20it%20regularly.%22%20shape%3D%22rect%22%3EWashing%20the%20car%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-waterhose.html"
+                },
+                {
+                    "title": "Wheel%20barrow",
+                    "id": "con-wheelbarrow.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-wheelbarrow.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "A%20good%20wheel%20barrow%20will%20save%20your%20back%20from%20extensive%20trauma%20when%20you%20garden.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EA%20good%20wheel%20barrow%20will%20save%20your%20back%20from%20extensive%20trauma%20when%20you%20%0Agarden.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-wheelbarrow.html"
+                },
+                {
+                    "title": "Workbench",
+                    "id": "con-workbench.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-workbench.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Use%20the%20workbench%20for%20storing%20tools%20and%20hardware%2C%20and%20for%20doing%20small%20projects.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EUse%20the%20workbench%20for%20storing%20tools%20and%20hardware%2C%20and%20for%20doing%20small%20%0Aprojects.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cdiv%20class%3D%22relinfo%20reltasks%22%3E%3Cstrong%3ERelated%20tasks%3C%2Fstrong%3E%3Cbr%20clear%3D%22none%22%3E%3C%2Fbr%3E%3Cdiv%3E%3Ca%20class%3D%22link%22%20href%3D%22tas-organizing.html%22%20title%3D%22Keep%20your%20garage%20neat%20by%20organizing%20the%20things%20you%20keep%20in%20the%20garage.%22%20shape%3D%22rect%22%3EOrganizing%20the%20workbench%20and%20tools%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-workbench.html"
+                },
+                {
+                    "title": "Windshield%20washer%20fluid",
+                    "id": "con-wwfluid.html",
+                    "uniqueKey": "hierarchy%2Fcon-garageconceptsoverview.html%2Fcon-wwfluid.html",
+                    "ancestors": [
+                        "hierarchy",
+                        "hierarchy/con-garageconceptsoverview.html"
+                    ],
+                    "summary": "Windshield%20washer%20fluid%20is%20required%20to%20keep%20your%20windshield%20wipers%20functioning%20properly.",
+                    "body": "%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22body%20conbody%22%3E%3Cp%20class%3D%22shortdesc%22%3EWindshield%20washer%20fluid%20is%20required%20to%20keep%20your%20windshield%0Awipers%20functioning%20properly.%3C%2Fp%3E%3Cp%20class%3D%22p%22%3EKeep%20your%20car%27s%20windshield%20washer%20fluid%20topped%20up%20so%20you%20will%20have%20a%20clean%20%0Awindshield%20whatever%20the%20weather%20or%20insect%20population.%3C%2Fp%3E%3C%2Fdiv%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20class%3D%22related-links%22%3E%3Cdiv%20class%3D%22familylinks%22%3E%3Cdiv%20class%3D%22parentlink%22%3E%3Cstrong%3EParent%20topic%3A%3C%2Fstrong%3E%3Ca%20class%3D%22link%22%20href%3D%22con-garageconceptsoverview.html%22%20title%3D%22A%20well-stocked%20garage%20can%20be%20the%20envy%20of%20the%20neighborhood.%22%20shape%3D%22rect%22%3EGarage%20Concepts%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E",
+                    "href": "topics%2Fcon-wwfluid.html"
+                }
+            ]
+        }
+    ]
+}
