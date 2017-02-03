@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ====================================================
+     XML Construct Domain Module
+    
+     Author: your name here
+
+     Copyright (c) 2011 copyright holder
+     
+     license to use or not use or whatever
+          
+     ==================================================== -->
+
+<!ENTITY % xml1-d-keyword
+"xmlelem | 
+textent | 
+parment
+"                 
+>
+
+<!ENTITY   xml-d-att     "(topic xml1-d)"
+>

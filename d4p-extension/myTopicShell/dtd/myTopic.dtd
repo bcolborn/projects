@@ -121,6 +121,11 @@
          "xmlDomain.ent"
 >%xml-d-dec;
 
+<!ENTITY % xml1-d-dec     
+   SYSTEM "xml1Domain.ent"                                                
+>
+%xml1-d-dec; 
+
 <!-- ============================================================= -->
 <!--             DOMAIN ATTRIBUTES DECLARATIONS                    -->
 <!-- ============================================================= -->
@@ -165,7 +170,8 @@
                          %pr-d-keyword; |
                          %sw-d-keyword; |
                          %ui-d-keyword; |
-                         %xml-d-keyword;
+                         %xml-d-keyword; |
+                         %xml1-d-keyword;
                         ">
 <!ENTITY % pre          "pre |
                          %pr-d-pre; |
@@ -224,6 +230,7 @@
                            &ui-d-att;
                            &ut-d-att;
                            &xml-d-att;
+                           &xml1-d-att;
   "
 >
 
@@ -308,5 +315,10 @@
   PUBLIC "-//OASIS//ELEMENTS DITA 1.3 XML Domain//EN"
          "xmlDomain.mod"
 >%xml-d-def;
+
+<!ENTITY % xml1-d-def
+  PUBLIC "-//OASIS//ELEMENTS DITA 1.3 XML Domain//EN"
+         "xml1Domain.mod"
+>%xml1-d-def;
 
 <!-- ================= End of DITA Topic Shell ================= -->
