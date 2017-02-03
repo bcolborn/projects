@@ -316,9 +316,9 @@
          "xmlDomain.mod"
 >%xml-d-def;
 
-<!ENTITY % xml1-d-def
-  PUBLIC "-//OASIS//ELEMENTS DITA 1.3 XML Domain//EN"
-         "xml1Domain.mod"
->%xml1-d-def;
+<!ENTITY % xml1-d-def     
+  SYSTEM  "xml1Domain.mod"
+>
+%xml1-d-def;
 
 <!-- ================= End of DITA Topic Shell ================= -->

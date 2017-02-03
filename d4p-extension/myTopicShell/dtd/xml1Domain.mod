@@ -88,9 +88,9 @@
 <!-- ============================================================= -->
 
 
-<!ATTLIST xmlelem     %global-atts;  class CDATA "+ topic/keyword xml-d/xmlelem "  >
-<!ATTLIST textent     %global-atts;  class CDATA "+ topic/keyword xml-d/textent "  >
-<!ATTLIST parment     %global-atts;  class CDATA "+ topic/keyword xml-d/parment "  >
+<!ATTLIST xmlelem     %global-atts;  class CDATA "+ topic/keyword xml1-d/xmlelem "  >
+<!ATTLIST textent     %global-atts;  class CDATA "+ topic/keyword xml1-d/textent "  >
+<!ATTLIST parment     %global-atts;  class CDATA "+ topic/keyword xml1-d/parment "  >
 
 
 <!-- ================== End XML Domain ==================== -->

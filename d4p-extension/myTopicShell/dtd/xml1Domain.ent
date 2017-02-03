@@ -18,5 +18,5 @@ parment
 "                 
 >
 
-<!ENTITY   xml-d-att     "(topic xml1-d)"
+<!ENTITY   xml1-d-att     "(topic xml1-d)"
 >
